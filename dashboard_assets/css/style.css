@@ -1,0 +1,41 @@
+.swal2-confirm.swal2-styled {
+	background: orange;
+}
+.rounded-circle {
+	width: 35px!important;
+	height: 35px!important;
+	line-height: 35px!important;
+}
+.register_btn.text-center {
+	margin-top: 50px;
+}
+.topbutton  {
+	display: flex;
+	justify-content: center;
+
+}
+.user_list_btn {
+	width: 125px;
+	height: 30px;
+	border-radius: 25px;
+	background-color: orange;
+	line-height: 30px;
+	margin: 0 10px;
+}
+.user_view_btn {
+	width: 125px;
+	height: 30px;
+	border-radius: 25px;
+	background-color: orange;
+	line-height: 30px;
+	margin: 0 10px;
+}
+.form-control {
+	border: 1px solid orange;
+}
+.alert-success {
+	background-color: orange;
+	color: white;
+}
+
+	
